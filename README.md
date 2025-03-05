@@ -15,7 +15,7 @@
 - Libraries: `pandas`, `numpy`, `matplotlib`, `scikit-learn`
 Alternatively, you can install all dependencies using:
    ```bash
-pip install -r requirements.txt
+    pip install -r requirements.txt
    ```
 
 pip install -r requirements.txt
