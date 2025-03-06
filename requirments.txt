@@ -3,3 +3,7 @@ numpy
 matplotlib
 scikit-learn
 jupyter
+tensorflow
+tensorflow-docs
+pprintpp
+json
