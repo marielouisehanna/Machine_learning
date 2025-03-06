@@ -1,23 +1,24 @@
-# Car Price Analysis Project
+# Car Price Prediction 🚗💰
 
-- TBD
+## Project Overview
+This project is a Jupyter Notebook-based deep learning model for predicting car prices. It preprocesses data, trains models, and evaluates performance using TensorFlow and Keras.
 
-## Notebooks
+## Features
+- Data preprocessing (handling missing values, feature scaling, encoding)
+- Building and training deep learning models
+- Model evaluation using MAE and R² score
+- Visualizing predictions and training history
+- Saving and loading trained model weights
 
-- TBD
-
-
-## Getting Started
-
-### Requirements
-- TBD
-
-### Setup
-- TBD
-
-hi this is a test from  chiara edde hytjytjut
+## Directory Structure
+```
+project/
+│-- CarPrice_2.ipynb            # Main Jupyter Notebook
+│-- my_models/                  # Saved model weights
+│-- car_price_prediction.csv    # Processed datasets 
+```
 
 ## Contributors
-- **Lea Chamseddine**
-- **Chiara Edde**
-- **Marielouise Hanna**
+- **CHAMSEDDINE Lea**
+- **EDDE Chiara**
+- **HANNA Marielouise**
