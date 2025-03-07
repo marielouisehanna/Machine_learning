@@ -13,7 +13,7 @@ This project is a Jupyter Notebook-based deep learning model for predicting diam
 ## Directory Structure
 ```
 project/
-│-- diamond-price-prediction-model.ipynb            # Main Jupyter Notebook
+│-- DiamondPrice.ipynb            # Main Jupyter Notebook
 │-- my_models/                  # Saved model weights
 │-- diamonds.csv    # Processed datasets 
 ```
