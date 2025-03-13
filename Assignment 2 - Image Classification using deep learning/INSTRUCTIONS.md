@@ -64,18 +64,13 @@ unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/
 ---
 ![alt text](image-1.png)
 
-## 🎯 **Check**
-
-Run:
-```bash
-ls ~/OneDrive/Desktop/ml/datasets/fruits360
-```
-You should see:
-```
-fruits-360/
-  ├── Training/
-  ├── Test/
-```
 
 ## ✅ **Step 6: Select Only 10 Categories**
-By default, the Fruits-360 dataset contains **over 100 fruit categories**, but we will **select only 10**.
+Run `categories.py` so that only the selected **10 categories** are copied into a new folder:
+
+```bash
+python categories.py
+```
+
+---
+Now your dataset only has **10 categories instead of the full dataset**.
