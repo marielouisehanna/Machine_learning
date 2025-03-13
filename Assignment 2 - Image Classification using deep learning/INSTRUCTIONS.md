@@ -64,7 +64,7 @@ unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/
 ---
 ![alt text](image-1.png)
 
-## 🎯 **Final Check**
+## 🎯 **Check**
 
 Run:
 ```bash
@@ -77,3 +77,5 @@ fruits-360/
   ├── Test/
 ```
 
+## ✅ **Step 6: Select Only 10 Categories**
+By default, the Fruits-360 dataset contains **over 100 fruit categories**, but we will **select only 10**.
