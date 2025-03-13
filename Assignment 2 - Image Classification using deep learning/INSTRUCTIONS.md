@@ -65,6 +65,7 @@ unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/
 ![alt text](image-2.png)
 
 ## 🎯 **Final Check**
+
 Run:
 ```bash
 ls ~/OneDrive/Desktop/ml/datasets/fruits360
