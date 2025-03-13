@@ -62,7 +62,7 @@ kaggle datasets download moltean/fruits -p ~/OneDrive/Desktop/ml/datasets/fruits
 unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/ml/datasets/fruits360
 ```
 ---
-![alt text](image-2.png)
+![alt text](image-1.png)
 
 ## 🎯 **Final Check**
 
