@@ -49,7 +49,7 @@ kaggle datasets list
 
 If it worked, you should see a list of available datasets similar to this:
 
-
+![alt text](image.png)
 
 ---
 
@@ -59,18 +59,7 @@ Now, download the dataset to your preferred location:
 ```bash
 mkdir -p ~/OneDrive/Desktop/ml/datasets/fruits360
 kaggle datasets download moltean/fruits -p ~/OneDrive/Desktop/ml/datasets/fruits360
-```
-
-Once downloaded, extract the dataset:
-
-```bash
 unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/ml/datasets/fruits360
-```
-
-If `unzip` is not installed, try:
-```bash
-tar -xvzf ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -C ~/OneDrive/Desktop/ml/datasets/fruits360
-```
 
 ---
 
@@ -86,4 +75,3 @@ fruits-360/
   ├── Test/
 ```
 
-If everything looks good, you're now ready to start training your model! 🚀  
