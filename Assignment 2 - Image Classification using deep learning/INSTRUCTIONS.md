@@ -57,9 +57,9 @@ If it worked, you should see a list of available datasets similar to this:
 Now, download the dataset to your preferred location:
 
 ```bash
-mkdir -p ~/OneDrive/Desktop/ml/datasets/fruits360
-kaggle datasets download moltean/fruits -p ~/OneDrive/Desktop/ml/datasets/fruits360
-unzip ~/OneDrive/Desktop/ml/datasets/fruits360/fruits.zip -d ~/OneDrive/Desktop/ml/datasets/fruits360
+kaggle datasets download moltean/fruits -p dataset/fruits360
+unzip fruits360/fruits.zip -d fruits360
+
 ```
 ---
 ![alt text](image-1.png)
