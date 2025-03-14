@@ -57,7 +57,7 @@ If it worked, you should see a list of available datasets similar to this:
 Now, download the dataset to your preferred location:
 
 ```bash
-kaggle datasets download moltean/fruits -p dataset/fruits360
+kaggle datasets download moltean/fruits -p fruits360
 unzip fruits360/fruits.zip -d fruits360
 
 ```
