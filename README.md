@@ -22,6 +22,7 @@ We have collaborated on these assignments to build and apply various machine lea
 /assignments/
   ├── Assignment 1 - Dimond_Price_Prediction/  # First ML Assignment
   ├── Assignment 2 - Image Classification using deep learning/  # Image Classification with CNNs
+  ├── Extra work we did for assignment 1 Car_Price_Prediction
   ├── README.md      # This file
 
 ```
