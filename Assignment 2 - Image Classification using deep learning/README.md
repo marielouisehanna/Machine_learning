@@ -1,33 +1,39 @@
 # Flower Classification 🌸
 
-This project is all about classifying flowers using machine learning. It takes in images of flowers and predicts their types using a trained model.
+This project is a deep learning model designed to classify different types of flowers from images. It uses a convolutional neural network (CNN) to recognize and categorize flowers based on their visual features.
 
-## How It Works
-- The notebook loads and processes flower images.
-- A deep learning model is trained to recognize different flower species.
-- The model is evaluated and tested to ensure accuracy.
+## Features
+- Loads and preprocesses flower images automatically.
+- Trains a deep learning model using TensorFlow/Keras.
+- Evaluates model performance and provides accuracy metrics.
+- Accepts new images for real-time classification.
 
-## Requirements
-Make sure you have these installed before running the notebook:
-- Python
-- TensorFlow/Keras
-- OpenCV
-- NumPy
-- Matplotlib
-- Pandas
+## 📂 Dataset
+- The dataset consists of various flower species images.
+- Images are preprocessed (resized, normalized) for better accuracy.
+- Augmentation techniques are applied to improve generalization.
 
-You can install missing dependencies using:
+## Installation
+Make sure you have the required dependencies installed:
 ```bash
-pip install tensorflow opencv-python numpy matplotlib pandas
+pip install tensorflow opencv-python numpy matplotlib pandas scikit-learn
 ```
 
 ## How to Run
-1. Open the `FlowersClassification.ipynb` notebook.
-2. Run the cells step by step.
-3. Upload your own flower images to test the model.
+1. Open `FlowersClassification.ipynb` in Jupyter Notebook.
+2. Run each cell sequentially to train and evaluate the model.
+3. Upload a new image to see the classification results.
 
-## Results
-The model will predict the type of flower based on the image input and show the classification results.
+## Model Details
+- Uses a Convolutional Neural Network (CNN) with multiple layers.
+- Includes dropout layers to prevent overfitting.
+- Trained on labeled flower images for better accuracy.
+
+## 📊 Results
+- Displays classification accuracy and loss graphs.
+- Provides predictions for new images with confidence scores.
+
+
 
 ## 👥 Contributors
 
