@@ -12,7 +12,7 @@ This GitHub repository contains **all our assignments** for the **Machine Learni
 - **EDDE Chiara**
 - **HANNA Marielouise**
 
-We have collaborated on these assignments to build and apply various machine learning models, including supervised and unsupervised learning techniques.
+We have collaborated on these assignments to build and apply various machine learning models.
 
 ---
 
