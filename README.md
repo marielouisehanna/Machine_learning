@@ -22,6 +22,7 @@ We have collaborated on these assignments to build and apply various machine lea
 /Machine_learning/
   ├── Assignment 1 - Dimond_Price_Prediction/  # First ML Assignment
   ├── Assignment 2 - Image Classification using deep learning/  # Image Classification with CNNs
+  ├── Final Project MoodifyMe
   ├── Extra work we did
   ├── README.md      # This file
 
