@@ -8,6 +8,5 @@ MoodifyMe is a journaling application that leverages machine learning to analyze
 - **EDDE Chiara**
 - **HANNA Marielouise**
 
-We have collaborated to build and apply various machine learning models.
 
 
