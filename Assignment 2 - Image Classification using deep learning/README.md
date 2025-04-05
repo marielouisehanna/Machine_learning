@@ -1,7 +1,9 @@
 # Flower Classification 🌸
 
 This project is a deep learning model designed to classify different types of flowers from images. It uses a convolutional neural network (CNN) to recognize and categorize flowers based on their visual features.
+## Video Explanation
 
+We have added a video to explain the project.
 ## Features
 - Loads and preprocesses flower images automatically.
 - Trains a deep learning model using TensorFlow/Keras.
