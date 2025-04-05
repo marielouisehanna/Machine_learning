@@ -1,4 +1,8 @@
 # Machine Learning Assignments Repository
+## Video Explanations
+
+We have added video explanations to help you understand the project and its assignments. 
+Each folder for the respective assignments includes its own video explanation. 
 
 ## 📌 About This Repository
 
