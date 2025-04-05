@@ -1,5 +1,7 @@
 # Diamond Price Prediction 💰
+## Video Explanation
 
+We have added a video to explain the project.
 ## Project Overview
 This project is a Jupyter Notebook-based deep learning model for predicting diamond prices. It preprocesses data, trains models, and evaluates performance using TensorFlow and Keras.
 
