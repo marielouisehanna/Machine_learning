@@ -10,3 +10,4 @@ MoodifyMe is a journaling application that leverages machine learning to analyze
 
 
 
+![alt text](image.png)
