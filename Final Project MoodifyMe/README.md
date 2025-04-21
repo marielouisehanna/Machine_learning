@@ -9,7 +9,6 @@ MoodifyMe is a journaling application that leverages machine learning to analyze
 - **TensorFlow/Keras** - Deep learning framework for model development
 - **Scikit-learn** - Used for traditional ML algorithms and preprocessing
 - **Pandas & NumPy** - Data handling and numerical operations
-- **Flask** - Web interface 
 
 ## Installation
 
