@@ -25,6 +25,15 @@ The project uses the following dataset:
 
 https://www.kaggle.com/datasets/debarshichanda/goemotions
 
+## Final Report & Video Explanations
+We have included comprehensive documentation and presentations to provide deeper insights into our project:
+
+- **Final Report**: MoodifyMe-Final (1).docx – Detailed explanation of our methodology, data preprocessing, model selection, and evaluation metrics.
+
+- **Proposal Video**: MoodifyMe Video(proposal).mp4 – Overview of the project's objectives and initial plans.
+
+- **Final Presentation Video**: final video MoodifyMe.mp4 – Demonstrates the final application, discusses results and methods used.
+
 ## 👥 Contributors
 - **CHAMSEDDINE Lea**
 - **EDDE Chiara**
